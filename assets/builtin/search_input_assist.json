@@ -1,0 +1,35 @@
+[
+     {
+         "type": "cursor",
+         "name": "previous",
+         "step_count": "-1",
+         "track": "shortcut_back"
+     },
+     {
+         "type": "cursor",
+         "name": "next",
+         "step_count": "1",
+         "track": "shortcut_forward"
+     },
+     {
+         "type": "place_holder"
+     },
+     {
+         "type": "text",
+         "name": "www",
+         "text": "www.",
+         "track": "shortcut_3w"
+     },
+     {
+         "type": "text",
+         "name": "com",
+         "text": ".com",
+         "track": "shortcut_com"
+     },
+     {
+         "type": "text",
+         "name": "slash",
+         "text": "/",
+         "track": "shortcut_symbol"
+     }
+]

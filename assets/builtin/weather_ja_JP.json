@@ -1,0 +1,14 @@
+{
+        "cityName": "東京",
+        "cityKey": "226396",
+        "data": {
+                "temp": 7.8,
+                "min": 0.0,
+                "max": 7.8,
+                "mobileLink": "http://m.accuweather.com/ja/jp/tokyo/226396/current-weather/226396",
+                "link": "http://www.accuweather.com/ja/jp/tokyo/226396/current-weather/226396",
+                "time": 1419560400,
+                "text": "所により晴れ",
+                "icon": 3
+        }
+}

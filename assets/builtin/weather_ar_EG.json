@@ -1,0 +1,14 @@
+{
+        "cityName": "القاهرة",
+        "cityKey": "127164",
+        "data": {
+                "temp": 12.2,
+                "min": 11.1,
+                "max": 20.6,
+                "text": "ضباب خفيف",
+                "link": "http://www.accuweather.com/ar/eg/cairo/127164/current-weather/127164",
+                "time": 1419558120,
+                "mobileLink": "http://m.accuweather.com/ar/eg/cairo/127164/current-weather/127164",
+                "icon": 11
+        }
+}

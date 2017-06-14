@@ -1,0 +1,74 @@
+[
+
+    {
+        "addon_bar_icon_url": "fake_addon_evernote",
+        "name": "Evernote Share",
+        "package_name": "com.dolphin.browser.addons.evernoteshare",
+        "icon_url": "fake_addon_evernote",
+        "download_url": "market://details?id=com.dolphin.browser.addons.evernoteshare",
+        "id": 25,
+        "is_text_selection_addon": false,
+        "show_in_addon_bar": true,
+        "application_name": "DolphinHDAddonStore",
+        "order": 100001,
+        "long_description": "Evernote Share allows you to quickly clip the text from any website and upload directly to your Evernote account.",
+        "description": "Stay productive in the cloud."
+    },
+    {
+        "addon_bar_icon_url": "fake_addon_dropbox",
+        "name": "Dropbox For Dolphin",
+        "package_name": "com.dolphin.dropbox",
+        "icon_url": "fake_addon_dropbox",
+        "download_url": "market://details?id=com.dolphin.dropbox",
+        "id": 26,
+        "is_text_selection_addon": false,
+        "show_in_addon_bar": true,
+        "application_name": "DolphinHDAddonStore",
+        "order": 100002,
+        "long_description": "This add-on lets you upload your downloaded files in Dolphin Browser to Dropbox automatically and easily.",
+        "description": "One click to upload to Dropbox."
+    },
+    {
+        "addon_bar_icon_url": "fake_addon_trustgo",
+        "name": "TrustGo Antivirus",
+        "package_name": "com.trustgo.mobile.security",
+        "icon_url": "fake_addon_trustgo",
+        "download_url": "market://details?id=com.trustgo.mobile.security",
+        "id": 28,
+        "is_text_selection_addon": false,
+        "show_in_addon_bar": true,
+        "application_name": "DolphinHDPreInstallApp",
+        "order": -10001,
+        "long_description": "Antivirus for Dolphin ensures safe browsing and protects your smartphone from malicious apps and viruses. Download Now!\r\n",
+        "description": "Get free antivirus protection."
+    },
+    {
+        "addon_bar_icon_url": "fake_addon_phonegap",
+        "name": "Dolphin: PhoneGap Add-on",
+        "package_name": "com.dolphin.phonegap",
+        "icon_url": "fake_addon_phonegap",
+        "download_url": "market://details?id=com.dolphin.phonegap",
+        "id": 29,
+        "is_text_selection_addon": false,
+        "show_in_addon_bar": true,
+        "application_name": "DolphinHDPreInstall",
+        "order": -10002,
+        "long_description": "This add-on allows you browse any PhoneGap based web apps that let you enjoy local features like camera within Dolphin.",
+        "description": "Browse any PhoneGap based web apps."
+    },
+    {
+        "addon_bar_icon_url": "fake_addon_pocket",
+        "name": "Dolphin: Pocket Add-on",
+        "package_name": "com.dolphin.pocket",
+        "icon_url": "fake_addon_pocket",
+        "download_url": "market://details?id=com.dolphin.pocket",
+        "id": 27,
+        "is_text_selection_addon": false,
+        "show_in_addon_bar": true,
+        "application_name": "DolphinHDPreInstall",
+        "order": -10000,
+        "long_description": "Save any page to Pocket in one click \r\n View later with Pocket on any device, any where.\r\n",
+        "description": "Pocket saves articles, videos and more to view later."
+    }
+
+]

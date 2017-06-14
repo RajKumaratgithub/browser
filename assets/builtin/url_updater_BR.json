@@ -1,0 +1,14 @@
+{
+    "bookmark": [{
+        "origin_urls": ["http://amazon.com.br/","http://www.amazon.com.br/","http://m.amazon.com.br/","http://www.m.amazon.com.br/"],
+        "new_url": "http://www.amazon.com.br/?_encoding=UTF8&camp=1789&creative=9325&linkCode=ur2&tag=dolphbrows07-20"
+    }],
+    "speeddial": [{
+        "origin_urls": ["http://amazon.com.br/","http://www.amazon.com.br/","http://m.amazon.com.br/","http://www.m.amazon.com.br/"],
+        "new_url": "http://www.amazon.com.br/?_encoding=UTF8&camp=1789&creative=9325&linkCode=ur2&tag=dolphbrows07-20"
+    }],
+    "history": [{
+         "origin_urls": ["http://amazon.com.br/","http://www.amazon.com.br/","http://m.amazon.com.br/","http://www.m.amazon.com.br/"],
+         "new_url": "http://www.amazon.com.br/?_encoding=UTF8&camp=1789&creative=9325&linkCode=ur2&tag=dolphbrows07-20"
+    }]
+}

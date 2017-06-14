@@ -1,0 +1,14 @@
+{
+        "cityName": "New Delhi",
+        "cityKey": "187745",
+        "data": {
+                "temp": 32.8,
+                "min": 20.0,
+                "max": 35.0,
+                "mobileLink": "http://m.accuweather.com/en/in/new-delhi/187745/current-weather/187745",
+                "link": "http://www.accuweather.com/en/in/new-delhi/187745/current-weather/187745",
+                "time": 1427185200000,
+                "text": "Mostly sunny",
+                "icon": 2
+        }
+}

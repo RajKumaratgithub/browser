@@ -1,0 +1,1399 @@
+{
+
+    "last_modified": 1384181748,
+    "sites": [
+        {
+            "color": "81ab00",
+            "url": "www.dolphin-browser.jp/features",
+            "id": 247,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/features.png"
+        },
+        {
+            "color": "389d00",
+            "url": "dolphin://feedback",
+            "id": 246,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/feedback.png"
+        },
+        {
+            "color": "E71E20",
+            "url": "m.espn.go.com",
+            "id": 245,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/topsite/espn.png"
+        },
+        {
+            "color": "E71E20",
+            "url": "espn.go.com",
+            "id": 66,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/topsite/espn.png"
+        },
+        {
+            "color": "7fb9ee",
+            "url": "*.dropbox.com",
+            "id": 244,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/dropbox.png"
+        },
+        {
+            "color": "670099",
+            "url": "*.fedex.com",
+            "id": 243,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/fedex.png"
+        },
+        {
+            "color": "030094",
+            "url": "*.photo.net",
+            "id": 242,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/photo.png"
+        },
+        {
+            "color": "c7ff00",
+            "url": "*.ku6.com",
+            "id": 236,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/ku6.png"
+        },
+        {
+            "color": "d70d4b",
+            "url": "*.metrolyrics.com",
+            "id": 235,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/metrolyrics.png"
+        },
+        {
+            "color": "0a6da7",
+            "url": "*.medscape.com",
+            "id": 234,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/medscape.png"
+        },
+        {
+            "color": "2a2669",
+            "url": "*.nbcnews.com",
+            "id": 233,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/nbcnews.png"
+        },
+        {
+            "color": "ffffff",
+            "url": "*.roblox.com",
+            "id": 241,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/roblox.png"
+        },
+        {
+            "color": "e33a78",
+            "url": "*.eatingwell.com",
+            "id": 240,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/eatingwell.png"
+        },
+        {
+            "color": "f38621",
+            "url": "*.outbrain.com",
+            "id": 239,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/outbrain.png"
+        },
+        {
+            "color": "adc33b",
+            "url": "*.godaddy.com",
+            "id": 238,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/godaddy.png"
+        },
+        {
+            "color": "5c1863",
+            "url": "*.zoopla.co.uk",
+            "id": 237,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/zoopla.png"
+        },
+        {
+            "color": "88c442",
+            "url": "*.ehow.com",
+            "id": 232,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/eHow.png"
+        },
+        {
+            "color": "587cc6",
+            "url": "*.zillow.com",
+            "id": 231,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/zillow.png"
+        },
+        {
+            "color": "297ab3",
+            "url": "play.google.com",
+            "id": 230,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/googleplay.png"
+        },
+        {
+            "color": "a320b7",
+            "url": "*.wildberries.ru",
+            "id": 226,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/wildberries.png"
+        },
+        {
+            "color": "950000",
+            "url": "*.irr.ru",
+            "id": 227,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/irr.png"
+        },
+        {
+            "color": "1abaea",
+            "url": "*.tiu.ru",
+            "id": 228,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/tiu.png"
+        },
+        {
+            "color": "9c5251",
+            "url": "*.dojki.com",
+            "id": 229,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/dojki.png"
+        },
+        {
+            "color": "ea0909",
+            "url": "*.ya.ru",
+            "id": 211,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/topsite/yandex_1.png"
+        },
+        {
+            "color": "098389",
+            "url": "*.rbc.ru",
+            "id": 207,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/rbc.png"
+        },
+        {
+            "color": "078f32",
+            "url": "*.sberbank.ru",
+            "id": 206,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/sberbank.png"
+        },
+        {
+            "color": "bd0a17",
+            "url": "*.drom.ru",
+            "id": 209,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/drom.png"
+        },
+        {
+            "color": "a91f00",
+            "url": "*.kinopoisk.ru",
+            "id": 208,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/kinopoisk.png"
+        },
+        {
+            "color": "e94824",
+            "url": "*.stumbleupon.com",
+            "id": 210,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/StumbleUpon.png"
+        },
+        {
+            "color": "19476a",
+            "url": "*.webmoney.ru",
+            "id": 215,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/webmoney.png"
+        },
+        {
+            "color": "#740000",
+            "url": "*.auto.ru",
+            "id": 214,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/auto.png"
+        },
+        {
+            "color": "6695b6",
+            "url": "*.sape.ru",
+            "id": 213,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/sape.png"
+        },
+        {
+            "color": "#000000",
+            "url": "*.lenta.ru",
+            "id": 212,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/lenta.png"
+        },
+        {
+            "color": "#000000",
+            "url": "*.webalta.ru",
+            "id": 216,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/webalta.png"
+        },
+        {
+            "color": "b74121",
+            "url": "*.fotostrana.ru",
+            "id": 220,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/fotostrana.png"
+        },
+        {
+            "color": "000000",
+            "url": "*.searchengines.ru",
+            "id": 219,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/searchengines.png"
+        },
+        {
+            "color": "5c808f",
+            "url": "*.habrahabr.ru",
+            "id": 218,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/habrahabr.png"
+        },
+        {
+            "color": "b60000",
+            "url": "*.rutor.org",
+            "id": 217,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/rutor.png"
+        },
+        {
+            "color": "217192",
+            "url": "*.gogetlinks.net",
+            "id": 225,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/gogetlinks.png"
+        },
+        {
+            "color": "ff7200",
+            "url": "*.aliexpress.com",
+            "id": 224,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/aliexpress.com.png"
+        },
+        {
+            "color": "000000",
+            "url": "*.hh.ru",
+            "id": 223,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/headhunter.png"
+        },
+        {
+            "color": "030f18",
+            "url": "*.ria.ru",
+            "id": 222,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/ria.png"
+        },
+        {
+            "color": "3066a6",
+            "url": "*.vk.me",
+            "id": 221,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/topsite/vk_1.png"
+        },
+        {
+            "color": "00339c",
+            "url": "*.ikea.com",
+            "id": 202,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/ikea.png"
+        },
+        {
+            "color": "203260",
+            "url": "*.skysports.com",
+            "id": 205,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/skysport.png"
+        },
+        {
+            "color": "fe0002",
+            "url": "*.rottentomatoes.com",
+            "id": 204,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/rottentomatoes.png"
+        },
+        {
+            "color": "9900ff",
+            "url": "*.azlyrics.com",
+            "id": 203,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/azlyrics.png"
+        },
+        {
+            "color": "97192c",
+            "url": "*.siteadvisor.com",
+            "id": 201,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/siteadvisor.png"
+        },
+        {
+            "color": "000000",
+            "url": "*.sky.com",
+            "id": 200,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/sky.png"
+        },
+        {
+            "color": "000000",
+            "url": "*.lloydstsb.co.uk",
+            "id": 189,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/lloydstsb.png"
+        },
+        {
+            "color": "328e8a",
+            "url": "*.rightmove.co.uk",
+            "id": 190,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/rightmove.png"
+        },
+        {
+            "color": "003f73",
+            "url": "*.guardian.co.uk",
+            "id": 191,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/guardian.png"
+        },
+        {
+            "color": "e32219",
+            "url": "*.argos.co.uk",
+            "id": 192,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/argos.png"
+        },
+        {
+            "color": "000099",
+            "url": "*.national-lottery.co.uk",
+            "id": 194,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/nationallottery.png"
+        },
+        {
+            "color": "000000",
+            "url": "*.hsbc.co.uk",
+            "id": 198,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/hsbc.png"
+        },
+        {
+            "color": "000000",
+            "url": "*.autotrader.co.uk",
+            "id": 197,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/autotrader.png"
+        },
+        {
+            "color": "91c241",
+            "url": "*.snapdo.com",
+            "id": 196,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/snapdo.png"
+        },
+        {
+            "color": "004397",
+            "url": "*.tesco.com",
+            "id": 195,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/tesco.png"
+        },
+        {
+            "color": "0084d6",
+            "url": "*.barclays.co.uk",
+            "id": 199,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/barclaysbank.png"
+        },
+        {
+            "color": "000000",
+            "url": "*.direct.gov.uk",
+            "id": 193,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/directgov.png"
+        },
+        {
+            "color": "0f155c",
+            "url": "*.xe.com",
+            "id": 188,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/xe.png"
+        },
+        {
+            "color": "f68c1c",
+            "url": "*.weebly.com",
+            "id": 187,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/weebly.png"
+        },
+        {
+            "color": "0200f5",
+            "url": "*.wordreference.com",
+            "id": 186,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/wordreference.png"
+        },
+        {
+            "color": "5c1b0c",
+            "url": "*.biblegateway.com",
+            "id": 185,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/biblegateway.png"
+        },
+        {
+            "color": "007ebb",
+            "url": "*.pogo.com",
+            "id": 184,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/pogo.png"
+        },
+        {
+            "color": "042b5e",
+            "url": "*.alexa.com",
+            "id": 183,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/alexa.png"
+        },
+        {
+            "color": "0073c6",
+            "url": "*.outlook.com",
+            "id": 130,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/outlook.png"
+        },
+        {
+            "color": "F4A21E",
+            "url": "*.mail.ru",
+            "id": 23,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/topsite/mail.png"
+        },
+        {
+            "color": "008b54",
+            "url": "*.dantri.com.vn",
+            "id": 134,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/dantri.png"
+        },
+        {
+            "color": "f94343",
+            "url": "accounts.google.com",
+            "id": 127,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/gmail.png"
+        },
+        {
+            "color": "cf1d1f",
+            "url": "*.hotmail.com",
+            "id": 128,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/hotmail.png"
+        },
+        {
+            "color": "463500",
+            "url": "*.expedia.com.hk",
+            "id": 182,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/expedia.png"
+        },
+        {
+            "color": "0f3746",
+            "url": "zh.scribd.com",
+            "id": 181,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/scribd.png"
+        },
+        {
+            "color": "000000",
+            "url": "store.steampowered.com",
+            "id": 180,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/stream.png"
+        },
+        {
+            "color": "699736",
+            "url": "*.groupon.com",
+            "id": 179,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/groupon.png"
+        },
+        {
+            "color": "5e5e5e",
+            "url": "news.google.com",
+            "id": 178,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/googlenews.png"
+        },
+        {
+            "color": "0d5c9c",
+            "url": "*.walmart.com",
+            "id": 164,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/Walmart.png"
+        },
+        {
+            "color": "E7141B",
+            "url": "*.reddit.com",
+            "id": 163,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/reddit.png"
+        },
+        {
+            "color": "29715f",
+            "url": "*.huffingtonpost.com",
+            "id": 165,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/thehuffingtonpost.png"
+        },
+        {
+            "color": "006aa6",
+            "url": "*.chase.com",
+            "id": 167,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/chasebank.png"
+        },
+        {
+            "color": "223e8f",
+            "url": "*.weather.com",
+            "id": 166,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/twc.png"
+        },
+        {
+            "color": "000000",
+            "url": "*.pornhub.com",
+            "id": 169,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/pornhub.com.png"
+        },
+        {
+            "color": "000000",
+            "url": "*.apple.com",
+            "id": 170,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/apple.png"
+        },
+        {
+            "color": "e2383d",
+            "url": "*.comcast.net",
+            "id": 171,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/comcast.png"
+        },
+        {
+            "color": "000000",
+            "url": "*.xvideos.com",
+            "id": 172,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/xvideos.png"
+        },
+        {
+            "color": "c2002a",
+            "url": "*.wellsfargo.com",
+            "id": 173,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/wellsfargo.png"
+        },
+        {
+            "color": "626262",
+            "url": "*.xhamster.com",
+            "id": 174,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/xhamster.png"
+        },
+        {
+            "color": "9b0d00",
+            "url": "*.yelp.com",
+            "id": 175,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/yelp.png"
+        },
+        {
+            "color": "1b466e",
+            "url": "*.foxnews.com",
+            "id": 176,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/foxnews.png"
+        },
+        {
+            "color": "000000",
+            "url": "*.nytimes.com",
+            "id": 177,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/nytimes.png"
+        },
+        {
+            "color": "818187",
+            "url": "*.stackoverflow.com",
+            "id": 162,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/stack_overflow.png"
+        },
+        {
+            "color": "ed135c",
+            "url": "*.parents.com",
+            "id": 161,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/Parents.png"
+        },
+        {
+            "color": "61a401",
+            "url": "*.drugs.com",
+            "id": 160,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/Drugs.png"
+        },
+        {
+            "color": "34533a",
+            "url": "*.deviantart.com",
+            "id": 159,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/deviantART.png"
+        },
+        {
+            "color": "61a401",
+            "url": "*.hulu.com",
+            "id": 158,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/Hulu.png"
+        },
+        {
+            "color": "f3c12d",
+            "url": "*.sina.cn",
+            "id": 126,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/sina_1.png"
+        },
+        {
+            "color": "bd0c19",
+            "url": "*.163.com",
+            "id": 124,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/wangyi123_1.png"
+        },
+        {
+            "color": "2d5ee9",
+            "url": "*.ucoz.ru",
+            "id": 112,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/ucoz_1.png"
+        },
+        {
+            "color": "000000",
+            "url": "*.dailymail.co.uk",
+            "id": 109,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/dailymail_1.png"
+        },
+        {
+            "color": "0097d7",
+            "url": "*.qq.com",
+            "id": 119,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/QQ_1.png"
+        },
+        {
+            "color": "1e5be1",
+            "url": "*.indeed.com",
+            "id": 157,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/indeed.png"
+        },
+        {
+            "color": "003f87",
+            "url": "*.mbga.jp",
+            "id": 86,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/mobage_new.png"
+        },
+        {
+            "color": "1a5aa2",
+            "url": "*.pandora.com",
+            "id": 156,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/Pandora.png"
+        },
+        {
+            "color": "2c9bdc",
+            "url": "*.pixiv.net",
+            "id": 155,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/pixiv.png"
+        },
+        {
+            "color": "0265bb",
+            "url": "*.renren.com",
+            "id": 154,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/renren.png"
+        },
+        {
+            "color": "ff7300",
+            "url": "*.alibaba.com",
+            "id": 153,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/alibaba.png"
+        },
+        {
+            "color": "d32600",
+            "url": "*.bankofamerica.com",
+            "id": 152,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/Bank_of_America.png"
+        },
+        {
+            "color": "10325E",
+            "url": "*.paypal.com",
+            "id": 36,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/Paypal.png"
+        },
+        {
+            "color": "e94a1c",
+            "url": "*.taobao.com",
+            "id": 149,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/taobao_1.png"
+        },
+        {
+            "color": "2CA9D8",
+            "url": "showmyip.herokuapp.com",
+            "id": 151,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/webapps/216_3.png"
+        },
+        {
+            "color": "da4e37",
+            "url": "plus.google.com",
+            "id": 150,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/google.png"
+        },
+        {
+            "color": "3A599A",
+            "url": "*.facebook.com",
+            "id": 1,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/facebook_new.png"
+        },
+        {
+            "color": "008bd4",
+            "url": "*.4pda.ru",
+            "id": 88,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/4PDA.png"
+        },
+        {
+            "color": "86068d",
+            "url": "*.vnexpress.net",
+            "id": 89,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/VnExpress.png"
+        },
+        {
+            "color": "2a64a9",
+            "url": "*.mail.com",
+            "id": 90,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/mail.com.png"
+        },
+        {
+            "color": "86068d",
+            "url": "*.theverge.com",
+            "id": 96,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/Verge.png"
+        },
+        {
+            "color": "0468de",
+            "url": "*.globo.com",
+            "id": 94,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/Globo.png"
+        },
+        {
+            "color": "000000",
+            "url": "*.bild.de",
+            "id": 93,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/bild.png"
+        },
+        {
+            "color": "e6a509",
+            "url": "*.apkmania.co",
+            "id": 92,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/Apkmania.png"
+        },
+        {
+            "color": "000000",
+            "url": "*.9gag.com",
+            "id": 91,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/9Gag.png"
+        },
+        {
+            "color": "194792",
+            "url": "*.avito.ru",
+            "id": 111,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/avito.png"
+        },
+        {
+            "color": "7db344",
+            "url": "*.gumtree.com",
+            "id": 110,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/guntree.png"
+        },
+        {
+            "color": "c3061c",
+            "url": "*.marca.com",
+            "id": 108,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/marca.png"
+        },
+        {
+            "color": "f10303",
+            "url": "*.ign.com",
+            "id": 107,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/ign.png"
+        },
+        {
+            "color": "d70303",
+            "url": "*.cracked.com",
+            "id": 106,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/cracked.png"
+        },
+        {
+            "color": "ef0000",
+            "url": "*.sport.es",
+            "id": 105,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/sport.png"
+        },
+        {
+            "color": "1b5aa7",
+            "url": "*.kaskus.co.id",
+            "id": 104,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/kaskus.png"
+        },
+        {
+            "color": "ffa600",
+            "url": "*.terra.es",
+            "id": 103,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/terra.png"
+        },
+        {
+            "color": "ec242f",
+            "url": "*.seznamnajdu.com",
+            "id": 102,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/Seznamnajdu.png"
+        },
+        {
+            "color": "002661",
+            "url": "*.forbes.com",
+            "id": 101,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/forbes.png"
+        },
+        {
+            "color": "3a5998",
+            "url": "*.ask.fm",
+            "id": 100,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/ask.png"
+        },
+        {
+            "color": "c30000",
+            "url": "*.nate.com",
+            "id": 98,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/nate.png"
+        },
+        {
+            "color": "005aa2",
+            "url": "*.tinhte.vn",
+            "id": 97,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/tinhte.png"
+        },
+        {
+            "color": "000000",
+            "url": "*.rambler.ru",
+            "id": 113,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/rambler.png"
+        },
+        {
+            "color": "ec6923",
+            "url": "*.hao123.com",
+            "id": 123,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/123.png"
+        },
+        {
+            "color": "e94a1c",
+            "url": "*.taobao.com",
+            "id": 121,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/taobao.png"
+        },
+        {
+            "color": "024fae",
+            "url": "*.baidu.com",
+            "id": 118,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/baidu.png"
+        },
+        {
+            "color": "358fe7",
+            "url": "*.gismeteo.ru",
+            "id": 117,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/gismeteo.png"
+        },
+        {
+            "color": "f39800",
+            "url": "*.liveinternet.ru",
+            "id": 115,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/liveinternet.png"
+        },
+        {
+            "color": "6a9ac2",
+            "url": "*.livejournal.com",
+            "id": 114,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/livejournal.png"
+        },
+        {
+            "color": "4288c3",
+            "url": "*.soso.com",
+            "id": 125,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/soso.png"
+        },
+        {
+            "color": "0057f7",
+            "url": "*.daum.net",
+            "id": 122,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/daum.png"
+        },
+        {
+            "color": "00d036",
+            "url": "*.naver.com",
+            "id": 120,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/naver.png"
+        },
+        {
+            "color": "eb6100",
+            "url": "*.narod.ru",
+            "id": 116,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/narod.png"
+        },
+        {
+            "color": "2784c5",
+            "url": "*.esporte.uol.com.br",
+            "id": 133,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/Uol_Esporte_.png"
+        },
+        {
+            "color": "1067a3",
+            "url": "*.4shared.com",
+            "id": 132,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/4shared.png"
+        },
+        {
+            "color": "2f1b0e",
+            "url": "*.webstore.com",
+            "id": 131,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/webstore.png"
+        },
+        {
+            "color": "3f8600",
+            "url": "*.24h.com.vn",
+            "id": 129,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/24h.png"
+        },
+        {
+            "color": "2e9709",
+            "url": "*.douban.com",
+            "id": 148,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/douban.png"
+        },
+        {
+            "color": "006bc7",
+            "url": "*.sogou.com",
+            "id": 147,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/sogou.png"
+        },
+        {
+            "color": "375275",
+            "url": "*.alipay.com",
+            "id": 146,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/alipay.png"
+        },
+        {
+            "color": "b52023",
+            "url": "*.jd.com",
+            "id": 145,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/jd.png"
+        },
+        {
+            "color": "196ea8",
+            "url": "*.att.com",
+            "id": 140,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/att.png"
+        },
+        {
+            "color": "242424",
+            "url": "*.appzzang.com",
+            "id": 138,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/appzzang.png"
+        },
+        {
+            "color": "de242e",
+            "url": "*.hm.com",
+            "id": 135,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/HM.png"
+        },
+        {
+            "color": "e60012",
+            "url": "*.sohu.com",
+            "id": 144,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/sohu.png"
+        },
+        {
+            "color": "fd0000",
+            "url": "*.tmall.com",
+            "id": 143,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/Tmall.png"
+        },
+        {
+            "color": "2a449a",
+            "url": "*.youtube-mp3.org",
+            "id": 141,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/youtube--MP3.png"
+        },
+        {
+            "color": "e43115",
+            "url": "*.baomoi.com",
+            "id": 139,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/baomoi.png"
+        },
+        {
+            "color": "484848",
+            "url": "*.spaces.ru",
+            "id": 137,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/spaces.png"
+        },
+        {
+            "color": "281c06",
+            "url": "*.gsmarena.com",
+            "id": 136,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/gsmarena.png"
+        },
+        {
+            "color": "080404",
+            "url": "*.ko.wikipedia.org",
+            "id": 99,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/search_icon_wikipedia2x.png"
+        },
+        {
+            "color": "81ab00",
+            "url": "www.dolphin-browser.jp/apps/aphone.htm",
+            "id": 87,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/topsite/hotapps.png"
+        },
+        {
+            "color": "4678BC",
+            "url": "*.google.com",
+            "id": 2,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/topsite/google.png"
+        },
+        {
+            "color": "B31E23",
+            "url": "*.youtube.com",
+            "id": 3,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/topsite/youtube_1.png"
+        },
+        {
+            "color": "822A87",
+            "url": "*.yahoo.com",
+            "id": 4,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/topsite/yahoo_5.png"
+        },
+        {
+            "color": "080404",
+            "url": "*.wikipedia.org",
+            "id": 5,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/topsite/wikipedia_1.png"
+        },
+        {
+            "color": "ffa300",
+            "url": "*.amazon.com",
+            "id": 7,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/topsite/amazon.png"
+        },
+        {
+            "color": "CF7F30",
+            "url": "*.live.com",
+            "id": 6,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/topsite/live_2.png"
+        },
+        {
+            "color": "EC6517",
+            "url": "*.blogspot.com",
+            "id": 8,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/topsite/blogspot_2.png"
+        },
+        {
+            "color": "1EA1DB",
+            "url": "*.twitter.com",
+            "id": 9,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/topsite/twitter_1.png"
+        },
+        {
+            "color": "4678BC",
+            "url": "*.google.co.in",
+            "id": 10,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/topsite/google.png"
+        },
+        {
+            "color": "F4A021",
+            "url": "*.bing.com",
+            "id": 13,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/topsite/bing_3.png"
+        },
+        {
+            "color": "d6002b",
+            "url": "*.yahoo.co.jp",
+            "id": 12,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/topsite/yahoojp.png"
+        },
+        {
+            "color": "157AA8",
+            "url": "*.linkedin.com",
+            "id": 11,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/topsite/linkedin.png"
+        },
+        {
+            "color": "1E759A",
+            "url": "*.wordpress.com",
+            "id": 17,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/topsite/wordpress.png"
+        },
+        {
+            "color": "48A9D4",
+            "url": "*.msn.com",
+            "id": 15,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/topsite/msn.png"
+        },
+        {
+            "color": "1A2D70",
+            "url": "*.ebay.com",
+            "id": 16,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/topsite/ebay.png"
+        },
+        {
+            "color": "DD2227",
+            "url": "*.yandex.ru",
+            "id": 14,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/topsite/yandex_1.png"
+        },
+        {
+            "color": "8A1D22",
+            "url": "*.ifeng.com",
+            "id": 48,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/topsite/凤凰网.png"
+        },
+        {
+            "color": "4678BC",
+            "url": "*.google.ca",
+            "id": 47,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/topsite/google.png"
+        },
+        {
+            "color": "080404",
+            "url": "*.go.com",
+            "id": 46,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/topsite/go.png"
+        },
+        {
+            "color": "4678BC",
+            "url": "*.google.com.mx",
+            "id": 45,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/topsite/google.png"
+        },
+        {
+            "color": "A57C5F",
+            "url": "*.instagram.com",
+            "id": 43,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/topsite/instagram.png"
+        },
+        {
+            "color": "080404",
+            "url": "*.bbc.co.uk",
+            "id": 42,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/topsite/BBC__Online.png"
+        },
+        {
+            "color": "2E5368",
+            "url": "*.babylon.com",
+            "id": 39,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/topsite/babylon.png"
+        },
+        {
+            "color": "4678BC",
+            "url": "*.google.it",
+            "id": 38,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/topsite/google.png"
+        },
+        {
+            "color": "4678BC",
+            "url": "*.google.es",
+            "id": 37,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/topsite/google.png"
+        },
+        {
+            "color": "53207F",
+            "url": "*.craigslist.org",
+            "id": 34,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/topsite/craigslist_2.png"
+        },
+        {
+            "color": "4678BC",
+            "url": "*.google.ru",
+            "id": 33,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/topsite/google.png"
+        },
+        {
+            "color": "C77332",
+            "url": "*.conduit.com",
+            "id": 32,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/topsite/coduit.png"
+        },
+        {
+            "color": "4678BC",
+            "url": "*.google.com.br",
+            "id": 31,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/topsite/google.png"
+        },
+        {
+            "color": "DC2326",
+            "url": "*.fc2.com",
+            "id": 30,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/topsite/fc2.png"
+        },
+        {
+            "color": "C42122",
+            "url": "*.pinterest.com",
+            "id": 29,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/topsite/pinterester.png"
+        },
+        {
+            "color": "C01A20",
+            "url": "*.ask.com",
+            "id": 28,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/topsite/ask.png"
+        },
+        {
+            "color": "4678BC",
+            "url": "*.googleusercontent.com",
+            "id": 27,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/topsite/google.png"
+        },
+        {
+            "color": "3B5A75",
+            "url": "*.tumblr.com",
+            "id": 26,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/topsite/tumblr.png"
+        },
+        {
+            "color": "4678BC",
+            "url": "*.google.fr",
+            "id": 25,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/topsite/google.png"
+        },
+        {
+            "color": "D14F25",
+            "url": "*.microsoft.com",
+            "id": 24,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/topsite/microsoft.png"
+        },
+        {
+            "color": "4678BC",
+            "url": "*.google.co.uk",
+            "id": 22,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/topsite/google.png"
+        },
+        {
+            "color": "4678BC",
+            "url": "*.google.co.jp",
+            "id": 21,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/topsite/google.png"
+        },
+        {
+            "color": "4678BC",
+            "url": "*.google.de",
+            "id": 20,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/topsite/google.png"
+        },
+        {
+            "color": "4E6F93",
+            "url": "*.vk.com",
+            "id": 19,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/topsite/vk_1.png"
+        },
+        {
+            "color": "4678BC",
+            "url": "*.google.com.hk",
+            "id": 18,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/topsite/google.png"
+        },
+        {
+            "color": "ffa300",
+            "url": "*.amazon.de",
+            "id": 44,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/topsite/amazon.png"
+        },
+        {
+            "color": "ffa300",
+            "url": "*.amazon.co.jp",
+            "id": 35,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/topsite/amazon.png"
+        },
+        {
+            "color": "080404",
+            "url": "*.imdb.com",
+            "id": 40,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/topsite/imdb.png"
+        },
+        {
+            "color": "DF7B2B",
+            "url": "*.odnoklassniki.ru",
+            "id": 41,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/topsite/odnoklassniki-DF7B2B.png"
+        },
+        {
+            "color": "84BC2D",
+            "url": "*.imgur.com",
+            "id": 64,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/topsite/imgur_2.png"
+        },
+        {
+            "color": "4678BC",
+            "url": "*.google.pl",
+            "id": 63,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/topsite/google.png"
+        },
+        {
+            "color": "4678BC",
+            "url": "*.google.com.tr",
+            "id": 60,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/topsite/google.png"
+        },
+        {
+            "color": "4678BC",
+            "url": "*.google.com.au",
+            "id": 59,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/topsite/google.png"
+        },
+        {
+            "color": "15773A",
+            "url": "*.neobux.com",
+            "id": 56,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/topsite/neobux.png"
+        },
+        {
+            "color": "C02627",
+            "url": "*.about.com",
+            "id": 55,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/topsite/about.png"
+        },
+        {
+            "color": "37A341",
+            "url": "*.360.cn",
+            "id": 53,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/topsite/360安全卫士.png"
+        },
+        {
+            "color": "7B2052",
+            "url": "*.adcash.com",
+            "id": 51,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/topsite/adcash.png"
+        },
+        {
+            "color": "D71418",
+            "url": "*.adobe.com",
+            "id": 50,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/topsite/adobe.png"
+        },
+        {
+            "color": "080404",
+            "url": "*.aol.com",
+            "id": 49,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/topsite/aol_2.png"
+        },
+        {
+            "color": "F2D743",
+            "url": "*.dailymotion.com",
+            "id": 71,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/topsite/dailymotion.png"
+        },
+        {
+            "color": "*.D0131B",
+            "url": "*.youku.com",
+            "id": 52,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/topsite/youku.png"
+        },
+        {
+            "color": "0d9900",
+            "url": "*.dolphin.com",
+            "id": 74,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/topsite/dolphin_3.png"
+        },
+        {
+            "color": "81ab00",
+            "url": "www.dolphin-browser.com/apps/aphone.htm",
+            "id": 73,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/topsite/hotapps.png"
+        },
+        {
+            "color": "389d00",
+            "url": "*.dolphin-browser.com",
+            "id": 75,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/topsite/dolphin_3.png"
+        },
+        {
+            "color": "ffa300",
+            "url": "*.flikie.com",
+            "id": 76,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/topsite/wallpaper.png"
+        },
+        {
+            "color": "ffa300",
+            "url": "*.amazon.co.uk",
+            "id": 61,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/topsite/amazon.png"
+        },
+        {
+            "color": "C3191F",
+            "url": "*.cnn.com",
+            "id": 58,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/topsite/cnn-C3191F.png"
+        },
+        {
+            "color": "9A2325",
+            "url": "*.netflix.com",
+            "id": 65,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/topsite/netflix-9A2325.png"
+        },
+        {
+            "color": "C97835",
+            "url": "*.avg.com",
+            "id": 78,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/topsite/avg-C97835.png"
+        },
+        {
+            "color": "2982BC",
+            "url": "*.mywebsearch.com",
+            "id": 79,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/topsite/302_found-2982BC_1.png"
+        },
+        {
+            "color": "1F5FAC",
+            "url": "*.flickr.com",
+            "id": 81,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/topsite/flick-1F5FAC.png"
+        },
+        {
+            "color": "080404",
+            "url": "*.wikipedia.com",
+            "id": 83,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/topsite/wikipedia_1.png"
+        },
+        {
+            "color": "DFB94D",
+            "url": "*.adf.ly",
+            "id": 85,
+            "icon": "http://opsen.dolphin-browser.com/resources/icon/topsite/adf.png"
+        }
+    ]
+
+}

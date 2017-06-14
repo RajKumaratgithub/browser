@@ -1,0 +1,14 @@
+{
+        "cityName": "臺北市",
+        "cityKey": "315078",
+        "data": {
+                "temp": 17.2,
+                "min": 16.1,
+                "max": 17.8,
+                "mobileLink": "http://m.accuweather.com/zh/tw/taipei-city/315078/current-weather/315078?lang=zh-tw",
+                "link": "http://www.accuweather.com/zh/tw/taipei-city/315078/current-weather/315078?lang=zh-tw",
+                "time": 1419562500,
+                "text": "多雲",
+                "icon": 7
+        }
+}

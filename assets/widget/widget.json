@@ -1,0 +1,39 @@
+{
+  "default_speed_dail": [
+      {
+          "url": "http://www.google.com/",
+          "ttl": "Google",
+          "icon": "google_1.png"
+      },
+      {
+          "url": "http://www.yahoo.com/",
+          "ttl": "Yahoo!",
+          "icon": "yahoo_1.png"
+      },
+      {
+          "url": "http://www.facebook.com/",
+          "ttl": "Facebook",
+          "icon": "facebook_new_1.png"
+      },
+      {
+          "url": "http://www.amazon.com/",
+          "ttl": "Amazon",
+          "icon": "amazon_3.png"
+      },
+      {
+          "url": "http://www.youtube.com/",
+          "ttl": "YouTube",
+          "icon": "youtube.png"
+      },
+      {
+          "url": "http://www.twitter.com/",
+          "ttl": "Twitter",
+          "icon": "twitter_1.png"
+      },
+      {
+          "url": "http://www.vk.com/",
+          "ttl": "vk",
+          "icon": "VK.png"
+      }
+  ]
+}

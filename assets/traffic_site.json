@@ -1,0 +1,30 @@
+[
+  {
+    "tracks": [
+       {
+        "key": "fr",
+        "value": "dol_and"
+       }
+    ],
+    "keyword": "search.yahoo.co.jp",
+    "replace": true
+  },
+  {
+    "tracks": [
+       {
+        "key": "clid",
+        "value": "1771196"
+       }
+    ],
+    "keyword": "yandex.ru"
+  },
+  {
+    "tracks": [
+       {
+        "key": "t",
+        "value": "mobotap"
+       }
+    ],
+    "keyword": "duckduckgo.com"
+  }
+]

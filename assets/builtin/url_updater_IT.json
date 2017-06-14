@@ -1,0 +1,26 @@
+{
+    "bookmark": [{
+        "origin_urls": ["http://amazon.it/","http://www.amazon.it/","http://m.amazon.it/","http://www.m.amazon.it/"],
+        "new_url": "http://www.amazon.it/?_encoding=UTF8&camp=3370&creative=23322&linkCode=ur2&tag=dolphbrows0a0-21"
+    },
+    {
+        "origin_urls": ["http://ebay.com/","http://www.ebay.com/","http://m.ebay.com/","http://www.m.ebay.com/"],
+        "new_url": "http://rover.ebay.com/rover/1/724-53478-19255-0/1?icep_ff3=1&pub=5575097811&toolid=10001&campid=5337618348&customid=&ipn=psmain&icep_vectorid=229494&kwid=902099&mtid=824&kw=lg"
+    }],
+    "speeddial": [{
+        "origin_urls": ["http://amazon.it/","http://www.amazon.it/","http://m.amazon.it/","http://www.m.amazon.it/"],
+        "new_url": "http://www.amazon.it/?_encoding=UTF8&camp=3370&creative=23322&linkCode=ur2&tag=dolphbrows0a0-21"
+    },
+    {
+        "origin_urls": ["http://ebay.com/","http://www.ebay.com/","http://m.ebay.com/","http://www.m.ebay.com/"],
+        "new_url": "http://rover.ebay.com/rover/1/724-53478-19255-0/1?icep_ff3=1&pub=5575097811&toolid=10001&campid=5337618348&customid=&ipn=psmain&icep_vectorid=229494&kwid=902099&mtid=824&kw=lg"
+    }],
+    "history": [{
+        "origin_urls": ["http://amazon.it/","http://www.amazon.it/","http://m.amazon.it/","http://www.m.amazon.it/"],
+        "new_url": "http://www.amazon.it/?_encoding=UTF8&camp=3370&creative=23322&linkCode=ur2&tag=dolphbrows0a0-21"
+    },
+    {
+        "origin_urls": ["http://ebay.com/","http://www.ebay.com/","http://m.ebay.com/","http://www.m.ebay.com/"],
+        "new_url": "http://rover.ebay.com/rover/1/724-53478-19255-0/1?icep_ff3=1&pub=5575097811&toolid=10001&campid=5337618348&customid=&ipn=psmain&icep_vectorid=229494&kwid=902099&mtid=824&kw=lg"
+    }]
+}

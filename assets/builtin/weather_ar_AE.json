@@ -1,0 +1,14 @@
+{
+        "cityName": "الرياض",
+        "cityKey": "297030",
+        "data": {
+                "temp": 8.8,
+                "min": 10.0,
+                "max": 21.1,
+                "mobileLink": "http://m.accuweather.com/ar/sa/riyadh/297030/current-weather/297030",
+                "link": "http://www.accuweather.com/ar/sa/riyadh/297030/current-weather/297030",
+                "time": 1419558180,
+                "text": "غائم جزئيًا",
+                "icon": 35
+        }
+}

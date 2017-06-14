@@ -1,0 +1,16 @@
+{
+ "pid_strategies":[
+  {"search_engine":"yahoo",
+   "pid_name":"fr",
+   "pid_value":"dol_and",
+   "url_domains":"search.yahoo.co.jp,m.yahoo.co.jp",
+   "search_entries":"history,most_visited,desktop_shortcut,home_page,bookmark,search_engine,gesture"
+  },
+  {"search_engine":"yahoo",
+   "pid_name":"fr",
+   "pid_value":"top_dol_and",
+   "url_domains":"search.yahoo.co.jp,m.yahoo.co.jp",
+   "search_entries":"speed_dial"
+   }
+  ]
+}

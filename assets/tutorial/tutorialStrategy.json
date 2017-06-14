@@ -1,0 +1,10 @@
+{
+"duration": 2500,
+"tutorials": [
+"tutorial_fast.jpg",
+"tutorial_beautiful.jpg",
+"tutorial_responsive.jpg"
+],
+"id": 0,
+"strategy_test": false
+}

@@ -1,0 +1,14 @@
+{
+    "bookmark": [{
+        "origin_urls": ["http://amazon.cn/","http://www.amazon.cn/","http://m.amazon.cn/","http://www.m.amazon.cn/"],
+        "new_url": "http://www.amazon.cn/?_encoding=UTF8&camp=536&creative=3200&linkCode=ur2&tag=dolphbrows-23"
+    }],
+    "speeddial": [{
+        "origin_urls": ["http://amazon.cn/","http://www.amazon.cn/","http://m.amazon.cn/","http://www.m.amazon.cn/"],
+        "new_url": "http://www.amazon.cn/?_encoding=UTF8&camp=536&creative=3200&linkCode=ur2&tag=dolphbrows-23"
+    }],
+    "history": [{
+         "origin_urls": ["http://amazon.cn/","http://www.amazon.cn/","http://m.amazon.cn/","http://www.m.amazon.cn/"],
+         "new_url": "http://www.amazon.cn/?_encoding=UTF8&camp=536&creative=3200&linkCode=ur2&tag=dolphbrows-23"
+    }]
+}

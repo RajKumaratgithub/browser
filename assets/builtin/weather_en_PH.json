@@ -1,0 +1,14 @@
+{
+        "cityName": "Manila",
+        "cityKey": "264885",
+        "data": {
+                "temp": 27.8,
+                "min": 23.9,
+                "max": 29.4,
+                "mobileLink": "http://m.accuweather.com/en/ph/manila/264885/current-weather/264885",
+                "link": "http://www.accuweather.com/en/ph/manila/264885/current-weather/264885",
+                "time": 1419558000,
+                "text": "Partly sunny",
+                "icon": 3
+        }
+}

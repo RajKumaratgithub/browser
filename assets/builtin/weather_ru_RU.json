@@ -1,0 +1,14 @@
+{
+        "cityName": "Москва",
+        "cityKey": "294021",
+        "data": {
+                "temp": -12.2,
+                "min": -11.1,
+                "max": -10.0,
+                "mobileLink": "http://m.accuweather.com/ru/ru/moscow/294021/current-weather/294021",
+                "link": "http://www.accuweather.com/ru/ru/moscow/294021/current-weather/294021",
+                "time": 1419561780,
+                "text": "Небольшой снег",
+                "icon": 19
+        }
+}

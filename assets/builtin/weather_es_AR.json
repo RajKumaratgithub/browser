@@ -1,0 +1,14 @@
+{
+        "cityName": "Buenos Aires",
+        "cityKey": "7894",
+        "data": {
+                "temp": 26.1,
+                "min": 23.3,
+                "max": 28.9,
+                "mobileLink": "http://m.accuweather.com/es/ar/buenos-aires/7894/current-weather/7894",
+                "link": "http://www.accuweather.com/es/ar/buenos-aires/7894/current-weather/7894",
+                "time": 1419559800,
+                "text": "Despejado",
+                "icon": 33
+        }
+}

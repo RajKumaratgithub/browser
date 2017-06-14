@@ -1,0 +1,14 @@
+{
+        "cityName": "Brasília",
+        "cityKey": "43348",
+        "data": {
+                "temp": 22.8,
+                "min": 18.9,
+                "max": 30.0,
+                "mobileLink": "http://m.accuweather.com/pt/br/brasilia/43348/current-weather/43348",
+                "link": "http://www.accuweather.com/pt/br/brasilia/43348/current-weather/43348",
+                "time": 1419561300,
+                "text": "Limpo",
+                "icon": 33
+        }
+}

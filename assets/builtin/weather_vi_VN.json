@@ -1,0 +1,14 @@
+{
+        "cityName": "Hà Nội",
+        "cityKey": "353412",
+        "data": {
+                "temp": 17.2,
+                "min": 15.6,
+                "max": 18.9,
+                "mobileLink": "http://m.accuweather.com/vi/vn/hanoi/353412/current-weather/353412",
+                "link": "http://www.accuweather.com/vi/vn/hanoi/353412/current-weather/353412",
+                "time": 1419561300,
+                "text": "Mù sương",
+                "icon": 13
+        }
+}

@@ -1,0 +1,14 @@
+{
+        "cityName": "Kuala Lumpur",
+        "cityKey": "233776",
+        "data": {
+                "temp": 26.1,
+                "min": 23.9,
+                "max": 28.9,
+                "mobileLink": "http://m.accuweather.com/ms/my/kuala-lumpur/233776/current-weather/233776",
+                "link": "http://www.accuweather.com/ms/my/kuala-lumpur/233776/current-weather/233776",
+                "time": 1419561600,
+                "text": "Hujan renyai-renyai",
+                "icon": 12
+        }
+}

@@ -1,0 +1,14 @@
+{
+        "cityName": "北京市",
+        "cityKey": "101924",
+        "data": {
+                "temp": -1.1,
+                "min": -3.9,
+                "max": 3.9,
+                "mobileLink": "http://m.accuweather.com/zh/cn/beijing/101924/current-weather/101924",
+                "link": "http://www.accuweather.com/zh/cn/beijing/101924/current-weather/101924",
+                "time": 1419561780,
+                "text": "晴",
+                "icon": 1
+        }
+}

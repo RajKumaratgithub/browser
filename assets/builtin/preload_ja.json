@@ -1,0 +1,587 @@
+{
+    "more_addon_link": "http://dolphin-browser.com/android/addons/index.html",
+    "about": "NULL",
+    "home_page": "dolphin://home",
+    "rate_me_link": "",
+    "more_theme_link": "",
+    "show_download_translate": true,
+    "data_test": false,
+    "strategy": {
+        "duration": 2000,
+        "tutorials": ["tutorial_fast",
+        "tutorial_beautiful",
+        "tutorial_responsive",
+        "tutorial_customized"],
+        "id": 1,
+        "strategy_test": false
+    },
+    "hotapps": "",
+    "search_engines": [{
+        "searches": [{
+            "unique_name": "dolphin",
+            "title": "Dolphin",
+            "default": true,
+            "suggest": "http://www.google.com/complete/search?hl={language}&client=android&q={searchTerms}",
+            "id": 280,
+            "url": "http://search.dolphin-browser.jp/?q={searchTerms}",
+            "order": 1,
+            "color": "#68A82A",
+            "icon": "http://content.admin.dolphin.com/resources/icon/engine_dolphin_1.png"
+        },
+        {
+            "unique_name": "google",
+            "title": "Google",
+            "default": false,
+            "suggest": "http://www.google.com/complete/search?hl={language}&gl={country}&client=android&q={searchTerms}",
+            "id": 353,
+            "url": "http://www.google.com/search?hl={language}&gl={country}&ie={inputEncoding}&source=android-browser&q={searchTerms}",
+            "order": 2,
+            "color": "#4283f0",
+            "icon": "http://content.admin.dolphin.com/resources/icon/engine_google.png"
+        },
+        {
+            "unique_name": "yahoo_japan",
+            "title": "Yahoo!",
+            "default": false,
+            "suggest": "http://www.google.com/complete/search?hl={language}&gl={country}&client=android&q={searchTerms}",
+            "id": 354,
+            "url": "http://search.yahoo.co.jp/search?ei={inputEncoding}&fr=dol_and&p={searchTerms}",
+            "order": 3,
+            "color": "#8b2b90",
+            "icon": "http://content.admin.dolphin.com/resources/icon/engine_yahoo_japan.png"
+        },
+        {
+            "unique_name": "bing",
+            "title": "Bing",
+            "default": false,
+            "suggest": "http://api.bing.com/osjson.aspx?query={searchTerms}&language={language-country}",
+            "id": 355,
+            "url": "http://www.bing.com/search?a=results&q={searchTerms}",
+            "order": 4,
+            "color": "#ffa511",
+            "icon": "http://content.admin.dolphin.com/resources/icon/engine_bing.png"
+        },
+        {
+            "unique_name": "amazon",
+            "title": "Amazon",
+            "default": false,
+            "suggest": "http://www.google.com/complete/search?hl={language}&gl={country}&client=android&q={searchTerms}",
+            "id": 356,
+            "url": "http://www.amazon.co.jp/gp/aw/s.html?ie=UTF8&at=dlphnbrwsr-22&k={searchTerms}&lc=mqs&m=aps&uid=NULLGWDOCOMO",
+            "order": 5,
+            "color": "#ff9900",
+            "icon": "http://content.admin.dolphin.com/resources/icon/amazon_universal9070.png"
+        },
+        {
+            "unique_name": "rakuton",
+            "title": "楽天",
+            "default": false,
+            "suggest": "http://www.google.com/complete/search?hl={language}&gl={country}&client=android&q={searchTerms}",
+            "id": 357,
+            "url": "http://hb.afl.rakuten.co.jp/hgc/11917e7e.1e778116.11917e7f.912f451e/?pc={searchTerms}%3fscid%3daf_pc_etc&m=http%3a%2f%2fm.rakuten.co.jp%2f",
+            "order": 6,
+            "color": "#BF0000",
+            "icon": "http://content.admin.dolphin.com/resources/icon/rakuton_universal9070.png"
+        }],
+        "layout": 101,
+        "title": "General Search int JP(new)"
+    },
+    {
+        "searches": [{
+            "title": "YouTube",
+            "default": true,
+            "suggest": "http://www.youtube.com/results?search_query={searchTerms}",
+            "id": 196,
+            "url": "http://www.youtube.com/results?search_query={searchTerms}",
+            "pressed_icon": "http://opsen.dolphin-browser.com/resources/icon/search_with_youtube_pressed.png",
+            "order": 1,
+            "icon": "http://content.admin.dolphin.com/resources/icon/search_with_youtube_normal.png"
+        },
+        {
+            "title": "Wikipedia",
+            "default": false,
+            "suggest": "http://en.m.wikipedia.org/w/index.php?title=Special:Search&search={searchTerms}",
+            "id": 197,
+            "url": "http://en.m.wikipedia.org/w/index.php?title=Special:Search&search={searchTerms}",
+            "pressed_icon": "http://opsen.dolphin-browser.com/resources/icon/search_with_wikipedia_pressed.png",
+            "order": 2,
+            "icon": "http://content.admin.dolphin.com/resources/icon/search_with_wikipedia_normal.png"
+        },
+        {
+            "title": "Twitter",
+            "default": false,
+            "suggest": "https://mobile.twitter.com/search/?q={searchTerms}",
+            "id": 199,
+            "url": "https://mobile.twitter.com/search/?q={searchTerms}",
+            "pressed_icon": "http://opsen.dolphin-browser.com/resources/icon/search_with_twitter_pressed.png",
+            "order": 3,
+            "icon": "http://content.admin.dolphin.com/resources/icon/search_with_twitter_normal.png"
+        },
+        {
+            "title": "Facebook",
+            "default": false,
+            "suggest": "http://www.facebook.com/#!/search/?q={searchTerms}",
+            "id": 200,
+            "url": "http://www.facebook.com/#!/search/?q={searchTerms}",
+            "pressed_icon": "http://opsen.dolphin-browser.com/resources/icon/search_with_facebook_pressed.png",
+            "order": 4,
+            "icon": "http://content.admin.dolphin.com/resources/icon/search_with_facebook_normal.png"
+        },
+        {
+            "title": "Bellemaison",
+            "default": false,
+            "suggest": "http://click.linksynergy.com/fs-bin/click?id=YmGTucvs1zU&subid=0&offerid=302645.1&type=10&tmpid=1237&RD_PARM1={searchTerms}",
+            "id": 220,
+            "url": "http://click.linksynergy.com/fs-bin/click?id=YmGTucvs1zU&subid=0&offerid=302645.1&type=10&tmpid=1237&RD_PARM1={searchTerms}",
+            "pressed_icon": "http://opsen.dolphin-browser.com/resources/icon/bellemaison_vertical29090.png",
+            "order": 5,
+            "icon": "http://content.admin.dolphin.com/resources/icon/bellemaison_vertical9090.png"
+        }],
+        "layout": 102,
+        "title": "Vertical Search INT JP 2"
+    }],
+    "shares": {
+        "recommend_shares": [{
+            "unique_name": "facebook",
+            "icon": "http://content.admin.dolphin.com/resources/icon/search_with_facebook_normal_1.png",
+            "share_url": "https://share.facebook/share.php?link={url}",
+            "package_name": "com.facebook.katana",
+            "title": "Facebook"
+        },
+        {
+            "unique_name": "twitter",
+            "icon": "http://content.admin.dolphin.com/resources/icon/twitter1.png",
+            "share_url": "https://twitter.com/intent/tweet?text={text}&url={url}&via={via}",
+            "package_name": "com.twitter.android",
+            "title": "Twitter"
+        },
+        {
+            "unique_name": "whatsapp",
+            "icon": "http://content.admin.dolphin.com/resources/icon/desktop/duanzi.jpg",
+            "share_url": "1",
+            "package_name": "com.whatsapp",
+            "title": "Whatsapp"
+        }],
+        "share_content": {
+            "app_url": "http://dolphin.com/download/",
+            "webpage_template": "",
+            "homepage_template": ["#DolphinBrowser 100 million+ users' choice! Fast, smart, simple and fresh UI! Try it! {versionName}",
+            "#DolphinBrowser Lightening fast speed, easy download, simple operation and fresh UI! Try it!{versionName}",
+            "Tired of lag, complex operation and unusable flash? #DolphinBrowser solved everything! Try it!{versionName}"]
+        }
+    },
+    "check_update_link": "market://details?id=com.dolphin.browser.android.jp",
+    "speeddials": [{
+        "sid": 0,
+        "its": [{
+            "url": "http://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3055532&pid=882105806 ",
+            "p": 0,
+            "ico": "http://content.admin.dolphin.com/resources/icon/amazon_1.png",
+            "d": true,
+            "ttl": "Amazon"
+        },
+        {
+            "url": "http://m.yahoo.co.jp/?fr=top_dol_and",
+            "p": 1,
+            "ico": "http://content.admin.dolphin.com/resources/icon/yahoojp_1.png",
+            "d": true,
+            "ttl": "Yahoo!"
+        },
+        {
+            "url": "http://sp.mbga.jp/AFdob0000001/_t",
+            "p": 2,
+            "ico": "http://content.admin.dolphin.com/resources/icon/mobage_new_1.png",
+            "d": true,
+            "ttl": "mobage"
+        },
+        {
+            "url": "http://hb.afl.rakuten.co.jp/hsc/11917dc4.8263e216.11917d95.ef762de7/",
+            "p": 3,
+            "ico": "http://content.admin.dolphin.com/resources/icon/home_letian_speeddial_1.png",
+            "d": true,
+            "ttl": "楽天"
+        },
+        {
+            "url": "http://rdsig.yahoo.co.jp/loco/dolphin/RV=1/RU=aHR0cDovL2xvY28ueWFob28uY28uanAv",
+            "p": 4,
+            "ico": "http://content.admin.dolphin.com/resources/icon/Yahoo_location.png",
+            "d": true,
+            "ttl": "Yahoo!ロコ"
+        },
+        {
+            "url": "http://rdsig.yahoo.co.jp/transit/sp/android/dolphin/RV=1/RU=aHR0cDovL3RyYW5zaXQubG9jby55YWhvby5jby5qcC8-",
+            "p": 5,
+            "ico": "http://content.admin.dolphin.com/resources/icon/Yahoo_direction.png",
+            "d": true,
+            "ttl": "Yahoo!路線"
+        },
+        {
+            "p": 6,
+            "its": [{
+                "url": "http://sp.mbga.jp/AFdob5t00000/_game_intro?game_id=12010355",
+                "p": 1,
+                "ico": "http://content.admin.dolphin.com/resources/icon/dazhanluan_1_1.png",
+                "d": true,
+                "ttl": "大戦乱!!三国志バトル"
+            },
+            {
+                "url": "http://sp.mbga.jp/AFdob8b00000/game/cpn/hunterhunter/top.html",
+                "p": 2,
+                "ico": "http://content.admin.dolphin.com/resources/icon/hunter_1_1.png",
+                "d": true,
+                "ttl": "HUNTERxHUNTERバトルコレクション"
+            },
+            {
+                "url": "http://sp.mbga.jp/AFdob1900000/_lp",
+                "p": 3,
+                "ico": "http://content.admin.dolphin.com/resources/icon/gundam_1_1.png",
+                "d": true,
+                "ttl": "ガンダムロワイヤル"
+            },
+            {
+                "url": "http://sp.mbga.jp/AFdobgf00001/_aff_app?app_id=12012945",
+                "p": 4,
+                "ico": "http://content.admin.dolphin.com/resources/icon/jp_gamefolder1_1.png",
+                "d": true,
+                "ttl": "Blood Brothers"
+            },
+            {
+                "url": "http://sp.mbga.jp/AFdob0300001/_lp",
+                "p": 5,
+                "ico": "http://content.admin.dolphin.com/resources/icon/jp_gamefolder2_1.png",
+                "d": true,
+                "ttl": "農園ﾎｯｺﾘｰﾅ"
+            },
+            {
+                "url": "http://sp.mbga.jp/AFdob8j00001/_lp",
+                "p": 6,
+                "ico": "http://content.admin.dolphin.com/resources/icon/jp_gamefolder3_1.png",
+                "d": true,
+                "ttl": "アイマスCG"
+            },
+            {
+                "url": "http://sp.mbga.jp/AFdob4f00001/_lp",
+                "p": 7,
+                "ico": "http://content.admin.dolphin.com/resources/icon/jp_ffbrigade_1.png",
+                "d": true,
+                "ttl": "FF BRIGADE"
+            },
+            {
+                "url": "http://sp.mbga.jp/AFdob2j00000/_lp",
+                "p": 8,
+                "ico": "http://content.admin.dolphin.com/resources/icon/jp_bahamut_1.png",
+                "d": true,
+                "ttl": "神撃のバハムート"
+            },
+            {
+                "url": "http://dolphin.portal.connectedgamestore.com/",
+                "p": 9,
+                "ico": "http://content.admin.dolphin.com/resources/icon/jp_gamefolder7_1.png",
+                "d": true,
+                "ttl": "アソViVa"
+            }],
+            "ttl": "ゲーム"
+        },
+        {
+            "p": 7,
+            "its": [{
+                "url": "http://www.dolphin-browser.jp/features?nav=1",
+                "p": 1,
+                "ico": "http://content.admin.dolphin.com/resources/icon/features.png",
+                "d": true,
+                "ttl": "機能"
+            },
+            {
+                "url": "http://www.dolphin-browser.jp/archives",
+                "p": 2,
+                "ico": "http://content.admin.dolphin.com/resources/icon/bolg.png",
+                "d": true,
+                "ttl": "ブログ"
+            },
+            {
+                "url": "http://support.dolphin-browser.jp/knowledgebase",
+                "p": 3,
+                "ico": "http://content.admin.dolphin.com/resources/icon/FAQ.png",
+                "d": true,
+                "ttl": "FAQ"
+            },
+            {
+                "url": "dolphin://feedback",
+                "p": 4,
+                "ico": "http://content.admin.dolphin.com/resources/icon/feedback.png",
+                "d": true,
+                "ttl": "フィードバック"
+            },
+            {
+                "url": "http://www.dolphin-browser.jp/update-notes.html",
+                "p": 5,
+                "ico": "http://content.admin.dolphin.com/resources/icon/update277bd2.png",
+                "d": true,
+                "ttl": "アップデート"
+            },
+            {
+                "url": "http://plus.google.com/communities/105383868011227937315",
+                "p": 6,
+                "ico": "http://content.admin.dolphin.com/resources/icon/Information.png",
+                "d": true,
+                "ttl": " ベータテスト"
+            }],
+            "ttl": "ドルフィン"
+        }],
+        "id": 61
+    }],
+    "gesture": {
+        "marked_file": "http://opsen.dolphin-browser.com/resources/files/preset/gesture_marked",
+        "user_gesture_file": "http://opsen.dolphin-browser.com/resources/files/preset/tunnybrowser_gestures_ja"
+    },
+    "bookmarks": [{
+        "bookmarks": [{
+            "url": "http://sp.mbga.jp/AFdob5t00000/_game_intro?game_id=12010355",
+            "name": "大戦乱!!三国志バトル",
+            "order": 1
+        },
+        {
+            "url": "http://sp.mbga.jp/AFdob8b00000/game/cpn/hunterhunter/top.html",
+            "name": "HUNTERxHUNTERバトルコレクション",
+            "order": 2
+        },
+        {
+            "url": "http://sp.mbga.jp/AFdob1900000/_lp",
+            "name": "ガンダムロワイヤル",
+            "order": 3
+        },
+        {
+            "url": "http://sp.mbga.jp/AFdob0000003/_t",
+            "name": "Mobage",
+            "order": 4
+        },
+        {
+            "url": "http://sp.mbga.jp/AFdobgf00001/_aff_app?app_id=12012945",
+            "name": "Blood Brothers",
+            "order": 5
+        },
+        {
+            "url": "http://sp.mbga.jp/AFdob0300001/_lp",
+            "name": "農園ﾎｯｺﾘｰﾅ",
+            "order": 6
+        },
+        {
+            "url": "http://sp.mbga.jp/AFdob8j00001/_lp",
+            "name": "ｱｲﾄﾞﾙﾏｽﾀｰｼﾝﾃﾞﾚﾗｶﾞｰﾙｽﾞ",
+            "order": 7
+        },
+        {
+            "url": "http://sp.mbga.jp/AFdob4f00001/_lp",
+            "name": "FF BRIGADE",
+            "order": 8
+        },
+        {
+            "url": "http://sp.mbga.jp/AFdob2j00000/_lp",
+            "name": "神撃のバハムート",
+            "order": 9
+        }],
+        "name": "Mobage",
+        "order": 1
+    },
+    {
+        "bookmarks": [{
+            "url": "http://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3055532&pid=882115039",
+            "name": "ホットペッパーグルメ",
+            "order": 1
+        },
+        {
+            "url": "http://tabelog.com/",
+            "name": "食べログ",
+            "order": 2
+        },
+        {
+            "url": "http://click.linksynergy.com/fs-bin/click?id=YmGTucvs1zU&offerid=185549.10000746&type=3&subid=0",
+            "name": "Ｏｉｓｉｘ（おいしっくす",
+            "order": 3
+        },
+        {
+            "url": "http://click.linksynergy.com/fs-bin/click?id=YmGTucvs1zU&offerid=54470.10000411&type=3&subid=0",
+            "name": "JALショッピング",
+            "order": 4
+        }],
+        "name": "グルメ",
+        "order": 2
+    },
+    {
+        "bookmarks": [{
+            "url": "http://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3055532&pid=882080203",
+            "name": "ポンパレモール",
+            "order": 1
+        },
+        {
+            "url": "http://mobile.7netshopping.jp/relay/affiliate/entranceProcess.do?url=http%3A%2F%2Fmobile.7netshopping.jp%2Fall&affid=1663077777783985&site=1&link=6&uid=NULLGWDOCOMO",
+            "name": "セブンネットショッピング",
+            "order": 2
+        },
+        {
+            "url": "http://click.linksynergy.com/fs-bin/click?id=YmGTucvs1zU&offerid=130577.10000223&type=3&subid=0",
+            "name": "ニッセン",
+            "order": 3
+        },
+        {
+            "url": "http://linksynergy.jrs5.com/fs-bin/click?id=YmGTucvs1zU&offerid=252693.4&type=3&subid=0",
+            "name": "ビックカメラ.com",
+            "order": 4
+        },
+        {
+            "url": "http://click.linksynergy.com/fs-bin/click?id=YmGTucvs1zU&offerid=115047.10000001&type=3&subid=0",
+            "name": "ジャパネットたかた　",
+            "order": 5
+        }],
+        "name": "ショッピング",
+        "order": 3
+    },
+    {
+        "bookmarks": [{
+            "url": "http://www.dolphin-browser.jp/features?nav=1",
+            "name": "機能",
+            "order": 1
+        },
+        {
+            "url": "http://www.dolphin-browser.jp/archives",
+            "name": "ブログ",
+            "order": 2
+        },
+        {
+            "url": "http://support.dolphin-browser.jp/knowledgebase",
+            "name": "FAQ",
+            "order": 3
+        }],
+        "name": "ドルフィン",
+        "order": 4
+    },
+    {
+        "bookmarks": [{
+            "url": "http://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3055532&pid=882080263",
+            "name": "ケイコとマナブ.net",
+            "order": 1
+        },
+        {
+            "url": "http://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3055532&pid=882080268",
+            "name": "資格と仕事.net",
+            "order": 2
+        },
+        {
+            "url": "http://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3055532&pid=882080264",
+            "name": "ケイコとマナブ.net通信講座",
+            "order": 3
+        },
+        {
+            "url": "http://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3055532&pid=882080271",
+            "name": "大学＆大学院net",
+            "order": 4
+        }],
+        "name": "学び",
+        "order": 5
+    },
+    {
+        "bookmarks": [{
+            "url": "http://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3055532&pid=882080164",
+            "name": "じゃらんnet",
+            "order": 1
+        },
+        {
+            "url": "http://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3055532&pid=882080167",
+            "name": "じゃらん海外",
+            "order": 2
+        },
+        {
+            "url": "http://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3055532&pid=882080171",
+            "name": "AB-ROAD",
+            "order": 3
+        },
+        {
+            "url": "http://click.linksynergy.com/fs-bin/click?id=YmGTucvs1zU&offerid=271459.5&type=3&subid=0",
+            "name": "yoyaQ.com",
+            "order": 4
+        }],
+        "name": "旅行",
+        "order": 6
+    },
+    {
+        "bookmarks": [{
+            "url": "http://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3055532&pid=882080183",
+            "name": "ホットペッパービューティ",
+            "order": 1
+        },
+        {
+            "url": "http://click.linksynergy.com/fs-bin/click?id=YmGTucvs1zU&offerid=245629.10000028&type=3&subid=0",
+            "name": "DHCオンラインショップ",
+            "order": 2
+        },
+        {
+            "url": "http://click.linksynergy.com/fs-bin/click?id=YmGTucvs1zU&offerid=266633.10000005&type=3&subid=0",
+            "name": "ドクターシーラボ",
+            "order": 3
+        },
+        {
+            "url": "http://click.linksynergy.com/fs-bin/click?id=YmGTucvs1zU&offerid=135688.10000001&type=3&subid=0",
+            "name": "オルビス",
+            "order": 4
+        },
+        {
+            "url": "http://click.linksynergy.com/fs-bin/click?id=YmGTucvs1zU&offerid=130136.10000303&type=3&subid=0",
+            "name": "ファンケルオンライン",
+            "order": 5
+        },
+        {
+            "url": "http://click.linksynergy.com/fs-bin/click?id=YmGTucvs1zU&offerid=130215.10000003&type=3&subid=0",
+            "name": "HABAオンラインショップ",
+            "order": 6
+        },
+        {
+            "url": "http://click.linksynergy.com/fs-bin/click?id=YmGTucvs1zU&offerid=237914.10000172&type=3&subid=0",
+            "name": "コスメ・コム",
+            "order": 7
+        }],
+        "name": "美容",
+        "order": 7
+    },
+    {
+        "url": "http://www.facebook.com",
+        "name": "Facebook",
+        "order": 8
+    },
+    {
+        "url": "https://mobile.twitter.com",
+        "name": "Twitter",
+        "order": 9
+    },
+    {
+        "url": "http://www.google.co.jp",
+        "name": "Google",
+        "order": 10
+    },
+    {
+        "url": "http://m.yahoo.co.jp/?fr=top_dol_and",
+        "name": "Yahoo! JAPAN",
+        "order": 11
+    },
+    {
+        "url": "http://sp.mbga.jp/AFdob0000003/_t",
+        "name": "Mobage",
+        "order": 12
+    },
+    {
+        "url": "http://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3055532&pid=882105798",
+        "name": "アマゾン",
+        "order": 13
+    },
+    {
+        "url": "http://hb.afl.rakuten.co.jp/hgc/11917e7e.1e778116.11917e7f.912f451e/",
+        "name": "楽天",
+        "order": 14
+    },
+    {
+        "url": "http://hotapps.dolphin-browser.jp/index/top?guid=ON",
+        "name": "ぽけちょ",
+        "order": 15
+    }],
+    "id": 50,
+    "tutorial": "http://www.dolphin-browser.com/features"
+}

@@ -1,0 +1,14 @@
+{
+        "cityName": "香港",
+        "cityKey": "315078",
+        "data": {
+                "temp": 17.2,
+                "min": 15.0,
+                "max": 17.2,
+                "mobileLink": "http://m.accuweather.com/zh/hk/hong-kong/1123655/current-weather/1123655?lang=zh-hk",
+                "link": "http://www.accuweather.com/zh/hk/hong-kong/1123655/current-weather/1123655?lang=zh-hk",
+                "time": 1419561300,
+                "text": "局部天晴",
+                "icon": 3
+        }
+}

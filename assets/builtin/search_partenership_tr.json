@@ -1,0 +1,19 @@
+{
+ "pid_strategies":[
+   {"search_engine":"yandex",
+    "pid_name":"clid",
+    "pid_value":"2053116",
+    "search_entries":"speed_dial"
+   },
+   {"search_engine":"yandex",
+    "pid_name":"clid",
+    "pid_value":"2053117",
+    "search_entries":"history,most_visited,home_page,bookmark,desktop_shortcut,gesture"
+   },
+   {"search_engine":"yandex",
+    "pid_name":"clid",
+    "pid_value":"2053114",
+    "search_entries":"search_suggestion"
+   }
+  ]
+}

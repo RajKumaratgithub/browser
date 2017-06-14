@@ -1,0 +1,14 @@
+{
+        "cityName": "México",
+        "cityKey": "242560",
+        "data": {
+                "temp": 12.8,
+                "min": 6.1,
+                "max": 17.8,
+                "mobileLink": "http://m.accuweather.com/es/mx/mexico-city/242560/current-weather/242560",
+                "link": "http://www.accuweather.com/es/mx/mexico-city/242560/current-weather/242560",
+                "time": 1419559800,
+                "text": "Parcialmente nublado",
+                "icon": 35
+        }
+}

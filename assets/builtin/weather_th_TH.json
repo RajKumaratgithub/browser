@@ -1,0 +1,14 @@
+{
+        "cityName": "กรุงเทพมหานคร",
+        "cityKey": "318849",
+        "data": {
+                "temp": 27.8,
+                "min": 25.6,
+                "max": 33.9,
+                "text": "แดดจัด",
+                "link": "http://www.accuweather.com/th/th/bangkok/318849/current-weather/318849",
+                "time": 1419561300,
+                "mobileLink": "http://m.accuweather.com/th/th/bangkok/318849/current-weather/318849",
+                "icon": 1
+        }
+}

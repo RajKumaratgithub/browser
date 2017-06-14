@@ -1,0 +1,4 @@
+load url:http://www.yandex.ru/?clid=2053117
+load url:http://www.google.com/
+load url:http://www.facebook.com/
+new tab

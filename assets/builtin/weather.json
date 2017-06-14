@@ -1,0 +1,14 @@
+{
+        "cityName": "Washington",
+        "cityKey": "327659",
+        "data":{
+                "temp": 8.9,
+                "min": 2.2,
+                "max": 16.1,
+                "mobileLink": "http://m.accuweather.com/en/us/washington-dc/20006/current-weather/327659",
+                "link": "http://www.accuweather.com/en/us/washington-dc/20006/current-weather/327659",
+                "time": 1419557400,
+                "text": "Clear",
+                "icon": 33
+        }
+}

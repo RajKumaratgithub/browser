@@ -1,0 +1,14 @@
+{
+        "cityName": "Ankara",
+        "cityKey": "316938",
+        "data": {
+                "temp": -3.9,
+                "min": -1.7,
+                "max": 7.2,
+                "mobileLink": "http://m.accuweather.com/tr/tr/ankara/316938/current-weather/316938",
+                "link": "http://www.accuweather.com/tr/tr/ankara/316938/current-weather/316938",
+                "time": 1419561300,
+                "text": "Açık",
+                "icon": 33
+        }
+}

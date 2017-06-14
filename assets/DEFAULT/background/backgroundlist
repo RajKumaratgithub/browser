@@ -1,0 +1,10 @@
+<web url="youku" value="var tid;function checkvideo(){ if( typeof(adpluginobject)!=&quot;undefined&quot;) {clearInterval(tid),adpluginobject.player.requestAd();}} tid=setInterval(&quot;checkvideo()&quot;,1000)">
+<web url="sina" value="document.getElementsByTagName(&quot;video&quot;)[0].play()">
+<web url="funshion.com" value="var tid;function checkvideo(){ var player = document.getElementsByTagName(&quot;video&quot;)[0]; if(player.src.length!=0){clearInterval(tid),player.play()}} tid=setInterval(&quot;checkvideo()&quot;,1000)">
+<web url="ku6.com" value="document.getElementsByTagName(&quot;video&quot;)[0].play()">
+<web url="56.com" value="document.getElementsByTagName(&quot;video&quot;)[0].play()">
+<web url="qq.com" value="var tid;function checkvideo(){ var player = document.getElementsByTagName(&quot;video&quot;)[0]; if(player.src.length!=0){clearInterval(tid),player.play()}} tid=setInterval(&quot;checkvideo()&quot;,1000)">
+<web url="tudou.com" value="var tid;function checkvideo(){ var player = document.getElementsByTagName(&quot;video&quot;)[0]; if(player.src.length!=0){clearInterval(tid),player.play()}} tid=setInterval(&quot;checkvideo()&quot;,1000)">
+<web url="ifeng.com" value="var tid;function checkvideo(){ var player = document.getElementsByTagName(&quot;video&quot;)[0]; if(player.src.length!=0){clearInterval(tid),player.play()}} tid=setInterval(&quot;checkvideo()&quot;,1000)">
+<web url="youtube" value="var tid;function checkvideo(){ var player = document.getElementsByClassName(&quot;_mzp&quot;)[0]; if(player){clearInterval(tid),player.click()}} tid=setInterval(&quot;checkvideo()&quot;,1000)">
+<web url="voga360" value="var tid;function checkvideo(){ var player = document.getElementsByClassName(&quot;play_button&quot;)[0]; if(player){clearInterval(tid),player.click()}} tid=setInterval(&quot;checkvideo()&quot;,1000)">

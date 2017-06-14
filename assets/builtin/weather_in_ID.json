@@ -1,0 +1,14 @@
+{
+        "cityName": "Jakarta",
+        "cityKey": "242560",
+        "data": {
+                "temp": 29.6,
+                "min": 25.0,
+                "max": 32.2,
+                "mobileLink": "http://m.accuweather.com/id/id/jakarta/208971/current-weather/208971",
+                "link": "http://www.accuweather.com/id/id/jakarta/208971/current-weather/208971",
+                "time": 1419559860,
+                "text": "Berawan",
+                "icon": 7
+        }
+}
